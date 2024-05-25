@@ -2,7 +2,7 @@
 
 # Appster
 
-Appster is a web application for discovering, downloading, and uploading Android apps, similar to APK Monk. This application is built using HTML, CSS, JavaScript, Bootstrap, TailwindCSS, and Node.js. 
+Appster is a web application for discovering, downloading, and uploading Android apps. This application is built using HTML, CSS, JavaScript, Bootstrap, TailwindCSS, and Node.js. 
 
 ## Key Features
 
