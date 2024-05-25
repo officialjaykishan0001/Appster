@@ -35,6 +35,7 @@ Appster is a web application for discovering, downloading, and uploading Android
   - NodeJs
 
 ## Installation
+Try Appster online at https://appster.rf.gd , or 
 
 To set up the project locally, follow these steps:
 
